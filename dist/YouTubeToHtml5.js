@@ -1,4 +1,4 @@
-'use strict';fu'use strict';
+'use strict';
 
 /**
  * Embed a YouTube video as an HTML5 <video> element.
